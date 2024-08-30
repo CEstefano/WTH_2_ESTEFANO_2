@@ -10,7 +10,7 @@ import React from "react";
             { day: "Monday", open: "10:00", close: "16:00" },
             { day: "Tuesday", open: "10:00", close: "16:00" },
             { day: "Wednesday", open: "10:00", close: "16:00" },
-            { day: "Thursday", open: "11:00", close: "17:00" },
+            { day: "Thursday", open: "12:00", close: "17:00" },
             { day: "Friday", open: "10:00", close: "16:00" },
             { day: "Saturday", open: "9:00", close: "20:00" },
             { day: "Sunday", open: "9:00", close: "20:00" },
